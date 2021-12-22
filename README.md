@@ -4,7 +4,7 @@
 
 ### Background
 
-
+![pic1](resources/Outcomes_vs_Goals.png)
 
 ### Purpose
 
