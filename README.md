@@ -11,15 +11,15 @@ Kickstarter is a platform where ambitious creators can post information about a 
 ### Analysis of Outcomes Based on Launch Date
 
 To analyze the fates of kickstarter projects for plays based on their launch date, a pivot table was created. The data was filtered to only include theater projects, and the data was displayed in such a way that displayed the number of sucessful, failed, and canceled projects by month. The data could be filtered by year if desired, but the overall analysis was done using all years. The resulting pivot table and chart are shown below.
-![table1](resources/Launch_Date_Table)
-![chart1](resources/Theater_Outcome_vs_Launch)
+![table1](resources/Launch_Date_Table.png)
+![chart1](resources/Theater_Outcome_vs_Launch.png)
 Overall, the months with the greatest number of successful campaigns occurred between April and August. May in particular was a good month for theater-related Kickstarter projects with 111 successful attempts and only 52 failures. May was easily the month with the greatest success rate as well, as roughly two thirds of all theater projects launched in this month succeeded. On the other hand, December was the worst month to launch a campaign with a concerning 49% success rate.
 
 ### Analysis of Outcomes Based on Goals
 
 Plays were then singled out and analyzed specifically to see if the project's goal amount had any influence on success. Every project was sorted into bins at increments of $5000, plus additional bins for Less than $1000 and Greater than $50000. The number of successful, failed, and canceled projects with goal amounts were sorted into their proper bins and plotted on a line graph, shown below.
-![table2](resources/Goals_Table)
-![chart2](resources/Outcomes_vs_Goals)
+![table1](resources/Goals_Table.png)
+![chart2](resources/Outcomes_vs_Goals.png)
 For the bottom half of goal amounts, the success rate of Kickstarter projects for plays steadily decreases with increasing goal amount. This is intuitive, as the more money necessary to fund a project, the more room for error when securing that money. At goal amounts of $25000 and above, the trend is a bit more erratic. The sample size of these bins starts to drop off significantly at the higher goal amounts, so the success rate at these goal amounts may not be indicative of the overall trend. For example, it would be irresponsible to conclude that since the only project with a goal amount between $45000 and $49999 failed, any project with a goal amount in that range will also fail. Interestingly, no projects in this analysis were canceled.
 
 ### Challenges and Difficulties Encountered
