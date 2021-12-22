@@ -36,7 +36,7 @@ Theater projects are most likely to fail if they are launched in December.
 
 - What can you conclude about the Outcomes based on Goals?
 
-The success rate a play project is inversely proportional to the project's goal amount. This may not hold true for projects with outstandingly high goal amounts, as their insufficient data to make that conclusion.
+The success rate a play project is inversely proportional to the project's goal amount. This may not hold true for projects with outstandingly high goal amounts, as there is insufficient data to make that conclusion.
 
 - What are some limitations of this dataset?
 
