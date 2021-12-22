@@ -12,7 +12,7 @@ Kickstarter is a platform where ambitious creators can post information about a 
 
 To analyze the fates of kickstarter projects for plays based on their launch date, a pivot table was created. The data was filtered to only include theater projects, and the data was displayed in such a way that displayed the number of sucessful, failed, and canceled projects by month. The data could be filtered by year if desired, but the overall analysis was done using all years. The resulting pivot table and chart are shown below.
 ![table1](resources/Launch_Date_Table.png)
-![chart1](resources/Theater_Outcome_vs_Launch.png)
+![chart1](resources/Theater_Outcomes_vs_Launch.png)
 Overall, the months with the greatest number of successful campaigns occurred between April and August. May in particular was a good month for theater-related Kickstarter projects with 111 successful attempts and only 52 failures. May was easily the month with the greatest success rate as well, as roughly two thirds of all theater projects launched in this month succeeded. On the other hand, December was the worst month to launch a campaign with a concerning 49% success rate.
 
 ### Analysis of Outcomes Based on Goals
