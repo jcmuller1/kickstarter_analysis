@@ -2,10 +2,6 @@
 
 ## Overview of Project
 
-### Background
-
-
-
 ### Purpose
 
 ## Analysis and Challenges
